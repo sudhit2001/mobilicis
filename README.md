@@ -13,15 +13,15 @@ In this project we created Node.js Application using Express Framework and Mongo
 
 ## Frontend:- 
 
-*I downloaded the react modules and libraries to interact with the API and display the result of all queries on a webpage. 
-*I did a setup and applied basic css. 
-*Used axios library in React to get all data from the API. 
-*Used .filter() function to manipulate the data according to our queries and store our output in a variable. 
-*Next we used the map function to traverse through all the values of the variable and displayed them in the table() tag using JSX. 
-*I rendered the app.js to the browser with the output.
+* I downloaded the react modules and libraries to interact with the API and display the result of all queries on a webpage. 
+* I did a setup and applied basic css. 
+* Used axios library in React to get all data from the API. 
+* Used .filter() function to manipulate the data according to our queries and store our output in a variable. 
+* Next we used the map function to traverse through all the values of the variable and displayed them in the table() tag using JSX. 
+* I rendered the app.js to the browser with the output.
 
 ## Queries:- 
 
-*I used basic programming logic to filter data. 
-*I had used regular expressions too. 
-*For the last query, I used map to calculate the count and income of each city and individual respectively. I stored them in a variable and calcuated the count and average income.
+* I used basic programming logic to filter data. 
+* I had used regular expressions too. 
+* For the last query, I used map to calculate the count and income of each city and individual respectively. I stored them in a variable and calcuated the count and average income.
