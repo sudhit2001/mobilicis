@@ -4,12 +4,12 @@ In this project we created Node.js Application using Express Framework and Mongo
 
 ## Backend:-
 
-*To create a REST API with Node.js and MongoDB we installed the express, body parser and mongoose. 
-*Next we setup the server on the port 3000 
-*Next we created a separate file for your API routes and define the endpoints that your API will provide. 
-*Next we configured the mongoDB Database and connected that to our nodeJS application. 
-*I then added all the sample data to our database. 
-*I now have all the REST endpoints such as POST, GET, DELETE ready with us.
+* To create a REST API with Node.js and MongoDB we installed the express, body parser and mongoose. 
+* Next we setup the server on the port 3000 
+* Next we created a separate file for your API routes and define the endpoints that your API will provide. 
+* Next we configured the mongoDB Database and connected that to our nodeJS application. 
+* I then added all the sample data to our database. 
+* I now have all the REST endpoints such as POST, GET, DELETE ready with us.
 
 ## Frontend:- 
 
